@@ -1,0 +1,92 @@
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 21px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  #halaman_2 .portfolio img {
+    margin: auto;
+    max-width: 220px;
+  }
+
+  #halaman_3 p {
+    font-size: 18px;
+    text-align: justify;
+  }
+
+  #halaman_4 ul {
+    font-size: 18px;
+    text-align: left;
+  }
+
+  #halaman_6 ul {
+    font-size: 18px;
+    text-align: left;
+  }
+  #halaman_6 p {
+    font-size: 18px;
+  }
+
+  #halaman_7 ul {
+    font-size: 18px;
+    text-align: left;
+  }
+
+  #halaman_8 ol {
+    font-size: 18px;
+    text-align: left;
+  }
+
+  #halaman_9 ol {
+    font-size: 18px;
+    text-align: left;
+  }
+
+  #halaman_10 ol {
+    font-size: 18px;
+    text-align: left;
+  }
+
+  #halaman_10 p {
+    font-size: 18px;
+  }
+  #halaman_10 .mobi {
+    font-size: 24px;
+    margin-top: 5px;
+  }
+
+  #halaman_13 ul {
+    font-size: 18px;
+    text-align: left;
+  }
+
+  #halaman_14 h1 {
+    font-size: 18px;
+  }
+
+  #halaman_14 p {
+    font-size: 14px;
+  }
+  #halaman_14 .bor {
+    padding: 1px 5px;
+    text-align: left;
+  }
+
+  .bor .btn {
+    font-size: 14px;
+  }
+
+  #halaman_17 ul li {
+    font-size: 18px;
+    text-align: left;
+  }
+
+  /*  */
+}

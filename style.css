@@ -1,0 +1,197 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.blue {
+  color: #464599;
+}
+
+.bg_blue {
+  background-color: #464599;
+}
+
+.light_blue {
+  color: #36bee2;
+}
+
+.bg_lightblue {
+  background-color: #36bee2;
+}
+
+.yellow {
+  color: #efd97b;
+}
+.bg_yellow {
+  background-color: #efd97b;
+}
+
+.green {
+  color: #5ac2b2;
+}
+
+.bg_green {
+  background-color: #5ac2b2;
+}
+
+.khaki {
+  color: #f8c185;
+}
+
+.bg_khaki {
+  background-color: #f8c185;
+}
+
+h1 {
+  font-weight: 800;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 600;
+}
+
+.mt100 {
+  margin-top: 100px;
+}
+
+.btn a {
+  color: white;
+  text-decoration: none;
+}
+
+/* 
+ */
+
+#halaman_1 {
+  margin-top: 20px;
+}
+
+#halaman_1 h1 {
+  font-style: italic;
+}
+
+#halaman_1 img {
+  max-width: 180px;
+}
+
+#halaman_2 .portfolio {
+  background-color: #f8c185;
+  padding: 10px;
+  max-width: 720px;
+  margin: auto;
+}
+
+#halaman_2 .portfolio img {
+  margin: auto;
+  max-width: 360px;
+}
+
+#halaman_2 h1 {
+  font-style: italic;
+}
+
+#halaman_3 h1 {
+  font-style: italic;
+}
+
+#halaman_3 p {
+  font-size: 24px;
+  margin: 10px;
+}
+
+.box {
+  max-width: 720px;
+  margin: auto;
+}
+
+#halaman_4 ul {
+  list-style-position: inside;
+  font-size: 24px;
+  list-style-type: "⬛️ ";
+  padding: 10px;
+}
+
+#halaman_5 p {
+  font-size: 24px;
+}
+
+#halaman_6 ul {
+  list-style-position: inside;
+  font-size: 24px;
+  list-style-type: "⬛ ";
+  padding: 10px;
+}
+
+#halaman_6 p {
+  font-size: 24px;
+}
+
+#halaman_7 ul {
+  list-style-position: inside;
+  font-size: 24px;
+  list-style-type: "⬛ ";
+  padding: 10px;
+}
+
+#halaman_8 ol {
+  list-style-position: inside;
+  font-size: 24px;
+  padding: 10px;
+}
+
+#halaman_9 ol {
+  list-style-position: inside;
+  font-size: 24px;
+  padding: 10px;
+}
+
+#halaman_10 .bor {
+  border-style: solid;
+  list-style-position: inside;
+  font-size: 24px;
+  max-width: 380px;
+  margin: auto;
+}
+
+#halaman_10 .bor li {
+  text-align: left;
+}
+
+#halaman_10 .btn {
+  text-align: center;
+}
+
+#halaman_13 ul {
+  list-style-position: inside;
+  font-size: 22px;
+  list-style-type: "⬛ ";
+  padding: 10px;
+  text-align: left;
+}
+
+#halaman_14 p {
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+#halaman_14 .bor {
+  border-style: solid;
+  list-style-position: inside;
+  font-size: 24px;
+  max-width: 380px;
+  margin: auto;
+}
+
+#halaman_17 li {
+  list-style-position: inside;
+  font-size: 24px;
+  list-style-type: "⬛ ";
+  padding: 10px;
+}
+
+#halaman_18 {
+  margin-bottom: 100px;
+}
