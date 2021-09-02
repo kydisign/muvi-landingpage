@@ -2,6 +2,18 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
 .blue {
   color: #464599;
 }
@@ -98,8 +110,12 @@ h3 {
 }
 
 #halaman_3 p {
-  font-size: 24px;
-  margin: 10px;
+  font-size: 20px;
+  text-align: left;
+}
+
+#halaman_3 img {
+  width: 450px;
 }
 
 .box {
@@ -115,7 +131,7 @@ h3 {
 }
 
 #halaman_5 p {
-  font-size: 24px;
+  font-size: 18px;
 }
 
 #halaman_6 ul {
@@ -126,32 +142,67 @@ h3 {
 }
 
 #halaman_6 p {
-  font-size: 24px;
+  font-size: 18px;
+}
+
+#halaman_6 .card img {
+  width: 120px;
+}
+#halaman_6 .card {
+  border-radius: 50px;
+  margin: 10px;
 }
 
 #halaman_7 ul {
+  list-style: none; /* Remove HTML bullets */
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+}
+
+#halaman_7 li {
+  padding-left: 16px;
+  padding-bottom: 10px;
+}
+
+#halaman_7 li:before {
   list-style-position: inside;
   font-size: 24px;
-  list-style-type: "⬛ ";
+  font-weight: 700;
+  content: " \221A";
+  margin-right: 20px;
   padding: 10px;
+  color: #f8c185; /* Or a color you prefer */
+}
+
+#halaman_7 img {
+  width: 300px;
 }
 
 #halaman_8 ol {
   list-style-position: inside;
-  font-size: 24px;
+  font-size: 18px;
   padding: 10px;
 }
 
 #halaman_9 ol {
   list-style-position: inside;
-  font-size: 24px;
+  font-size: 18px;
   padding: 10px;
+  text-align: start;
+}
+
+#halaman_9 li {
+  padding-top: 10px;
+}
+#halaman_9 img {
+  width: 550px;
 }
 
 #halaman_10 .bor {
   border-style: solid;
   list-style-position: inside;
-  font-size: 24px;
+  font-size: 18px;
   max-width: 380px;
   margin: auto;
 }
@@ -166,7 +217,7 @@ h3 {
 
 #halaman_13 ul {
   list-style-position: inside;
-  font-size: 22px;
+  font-size: 18px;
   list-style-type: "⬛ ";
   padding: 10px;
   text-align: left;
@@ -194,4 +245,8 @@ h3 {
 
 #halaman_18 {
   margin-bottom: 100px;
+}
+
+#halaman_18 img {
+  width: 450px;
 }
