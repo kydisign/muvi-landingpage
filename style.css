@@ -131,7 +131,8 @@ h3 {
 }
 
 #halaman_5 p {
-  font-size: 18px;
+  font-size: 14px;
+  text-align: left;
 }
 
 #halaman_6 ul {
@@ -202,9 +203,13 @@ h3 {
 #halaman_10 .bor {
   border-style: solid;
   list-style-position: inside;
-  font-size: 18px;
+  font-size: 14px;
   max-width: 380px;
   margin: auto;
+}
+
+#halaman_10 .bor h3 {
+  font-size: 18px;
 }
 
 #halaman_10 .bor li {
