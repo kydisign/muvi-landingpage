@@ -11,6 +11,10 @@
     font-size: 18px;
   }
 
+  .component {
+    width: 350px;
+  }
+
   #halaman_2 .portfolio img {
     margin: auto;
     max-width: 220px;
@@ -83,6 +87,10 @@
   #halaman_13 ul {
     font-size: 18px;
     text-align: left;
+  }
+  #halaman_13 img {
+    margin: auto;
+    max-width: 220px;
   }
 
   #halaman_14 h1 {
