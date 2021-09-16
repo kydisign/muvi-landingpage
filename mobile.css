@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 990px) {
   h1 {
     font-size: 24px;
   }
@@ -9,10 +9,6 @@
 
   h3 {
     font-size: 18px;
-  }
-
-  .component {
-    width: 350px;
   }
 
   #halaman_2 .portfolio img {
@@ -116,6 +112,28 @@
 
   #halaman_18 img {
     width: 300px;
+  }
+
+  .component {
+    width: 350px;
+  }
+  .component blockquote.quote {
+    position: relative;
+    text-align: center;
+    padding: 0rem 10px;
+    width: 100%; /* create space for the quotes */
+    color: #484748;
+    margin: 0rem auto 0rem;
+  }
+  .component blockquote.quote:before,
+  .component blockquote.quote:after {
+    font-family: FontAwesome;
+    position: absolute;
+    color: #000000;
+    font-size: 20px;
+  }
+  .callout {
+    font-size: 18px;
   }
 
   /*  */
